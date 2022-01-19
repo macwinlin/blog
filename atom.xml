@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://macwinlin.github.io</id>
+    <title>MacWinLin工作室官方博客</title>
+    <updated>2022-01-19T07:11:42.110Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://macwinlin.github.io"/>
+    <link rel="self" href="https://macwinlin.github.io/atom.xml"/>
+    <subtitle>主要制作仿操作系统与软件 简称MWL</subtitle>
+    <logo>https://macwinlin.github.io/images/avatar.png</logo>
+    <icon>https://macwinlin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, MacWinLin工作室官方博客</rights>
+    <entry>
+        <title type="html"><![CDATA[加入/退出工作室相关问题]]></title>
+        <id>https://macwinlin.github.io/join&amp;quit_work_shop/</id>
+        <link href="https://macwinlin.github.io/join&amp;quit_work_shop/">
+        </link>
+        <updated>2021-08-04T15:02:11.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="所需材料标为必需">所需材料(标*为必需)</h2>
+<p>* 1.一个能接收邮件的邮箱<br>
+2.一个QQ号</p>
+<h2 id="正文">正文</h2>
+<h3 id="注册github账号如有请跳过">注册Github账号(如有请跳过)</h3>
+<p>请打开<a href="https://github.com/">Github</a>(第一次打开可能会很慢，可以通过更改hosts等方法加快访问速度)，随后在标注着“Email address”的地方输入您的邮箱，点击“Sign up for Github”(如下图所示)。<br>
+其余步骤请按照图片执行：<br>
+<img src="https://user-images.githubusercontent.com/88317432/128173619-cf1db4d5-11c1-47e3-abd4-e0fa3039097e.png" alt="github_register_1" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128173645-3f813c07-998d-49cd-8a01-8ee3fb675706.png" alt="github_register_2" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128173661-924478f6-c3fd-4bff-b5f9-2967d892b009.png" alt="github_register_3" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128173685-fbeb7844-444b-42ff-be2f-1257bb5f8ebc.png" alt="github_register_4" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128202422-c31cf867-a0f6-4018-bab3-248ea48889c2.png" alt="Github_register_5" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128174481-214c702c-0f34-49de-af1f-e26dccbe7023.png" alt="github_register_6" loading="lazy"><br>
+<img src="https://user-images.githubusercontent.com/88317432/128286959-2bbf44d4-7d3a-430f-8cae-503d37680f00.png" alt="github_register_7" loading="lazy"><br>
+然后会有一段非常绚丽的动画，然后加载，最后，恭喜你，来到了Github首页！<br>
+<img src="https://user-images.githubusercontent.com/88317432/128175496-0664d173-afb1-409b-8603-30a99b61d869.png" alt="Github首页" loading="lazy"><br>
+(本账号仅用于测试，现已删除账号)</p>
+<h3 id="加入organization">加入Organization</h3>
+<p>请用您的Github账号登录本博客的Gitalk，并按照以下形式留言：<br>
+<strong>邮箱：XXXXXXXXX@XX.com</strong><br>
+<strong>编程猫ID：XXXXXX</strong><br>
+随后请去<a href="https://shequ.codemao.cn/work_shop/7864">工作室主页</a>，申请加入，如果您有QQ，请在申请时填入QQ号，室长将会添加您的QQ，室长QQ：3585097686(小号)。<br>
+室长/副室长时不时会来看本帖评论区，当室长/副室长看见您的申请后，会向您发送邮件，邀请您加入工作室，同时在组织内填入您的邮箱，Github将向您发送一封英文电子邮件，您可以通过那封邮件加入工作室。<br>
+室长将会登录MacWinLin工作室Github官方账号关注您的Github账号。<br>
+同时，所有室长/副室长将共同拥有一个Excel表格，上面将详细记录您的邮箱、QQ号、Github昵称、编程猫ID、编程猫昵称，室长每周五晚上都将会对表格重新审查，如发现变动，室长将会立即更改。</p>
+<h3 id="退出工作室">退出工作室</h3>
+<p>如果您想退出工作室，可以跟室长/副室长提出申请，当然，也可以不提出申请。</p>
+<h4 id="提出申请者">提出申请者</h4>
+<p>室长/副室长将会添加您的QQ，询问您为什么要退出(可以不回答)，同时询问您的邮箱，您将会被添加到另一个Excel表格，主要记录退出成员。<br>
+提出申请者将在这个记录退出成员的表格里，将您的退出状态写为1。</p>
+<h4 id="不提出申请者">不提出申请者</h4>
+<p>emm...室长/副室长将不会询问您任何信息，您将在下一次室长重新审查时被移除，您将会被添加到另一个Excel表格，主要记录退出成员。<br>
+不提出申请者将在这个记录退出成员的表格里，将您的退出状态写为0。</p>
+<h4 id="退出后">退出后</h4>
+<p>如果您退出工作室，MacWinLin工作室官方账号将取消关注您的Github账号，同时您将被移出组织，但室长并不会删除您的QQ好友，毕竟多个朋友总是好的嘛(～￣▽￣)～</p>
+<h2 id="结尾">结尾</h2>
+<p>2021/8/4 20:18 鑫鑫Xinxin室长 向Github仓库提交修改  第一版</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作室作品预告]]></title>
+        <id>https://macwinlin.github.io/notice/</id>
+        <link href="https://macwinlin.github.io/notice/">
+        </link>
+        <updated>2021-07-24T15:00:36.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="预告">预告</h2>
+<p>我即将发布一款基于Kitten4打造的仿OS，操作方式暂定和Mac有点像，UI风格也与Mac很像，可以说是Mac+Windows+Linux的综合体，<s>简称“杂牌系统”</s></p>
+<h2 id="详细信息">详细信息：</h2>
+<p>系统名称：KX OS<br>
+原名：仿Mac(原本就是想直接做一个Mac)<br>
+项目开始日期：2021/7/8<br>
+当前进度：系统安装程序制作</p>
+<h2 id="最后">最后</h2>
+<p>球球大家加入工作室吧！工作室就我一个！<br>
+工作室主页：<a href="https://shequ.codemao.cn/work_shop/7864">编程猫主页</a></p>
+]]></content>
+    </entry>
+</feed>
