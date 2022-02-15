@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwinlin.github.io</id>
     <title>MacWinLin工作室官方博客</title>
-    <updated>2022-02-13T03:48:25.422Z</updated>
+    <updated>2022-02-15T10:48:48.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://macwinlin.github.io"/>
     <link rel="self" href="https://macwinlin.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://macwinlin.github.io/images/avatar.png</logo>
     <icon>https://macwinlin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MacWinLin工作室官方博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Feedback]]></title>
+        <id>https://macwinlin.github.io/feedback/</id>
+        <link href="https://macwinlin.github.io/feedback/">
+        </link>
+        <updated>2022-02-14T18:38:42.000Z</updated>
+        <content type="html"><![CDATA[<p>If you don't understand Chinese,you can feedback here.<br>
+If you need to feedback problem,bug or you want,you can use your GitHub account to login Gitalk,then you can comment,and you can feedback.</p>
+<pre><code class="language-python">def change(number):
+    ...
+def look_feedback():
+    ...
+if feedback number &gt; = 2500:
+    change(number + 1)
+    # Like:https://macwinlin.github.io/feedback =&gt; https://macwinlin.github.io/feedback-1
+else:
+    look_feedback()
+</code></pre>
+<p>如果你了解中文，请前往<a href="https://support.qq.com/products/378689">这里</a>进行反馈，兔小巢可以进行更多的操作！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加入/退出工作室相关问题]]></title>
         <id>https://macwinlin.github.io/join&amp;quit_work_shop/</id>
